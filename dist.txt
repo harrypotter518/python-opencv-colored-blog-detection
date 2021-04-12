@@ -1,0 +1,444 @@
+
+_________________________________________
+frame	identity	distance
+1	blue		1.29e+08
+1	green		1.22e+08
+1	red		1.25e+08
+1	yellow		1.31e+08
+1	gold		1.22e+08
+1	gray		1.27e+08
+1	tblue		1.24e+08
+_________________________________________
+frame	identity	distance
+2	blue		1.29e+08
+2	green		1.20e+08
+2	red		1.24e+08
+2	yellow		1.29e+08
+2	gold		1.20e+08
+2	gray		1.25e+08
+2	tblue		1.20e+08
+_________________________________________
+frame	identity	distance
+3	blue		1.25e+08
+3	green		1.17e+08
+3	red		1.21e+08
+3	yellow		1.25e+08
+3	gold		1.19e+08
+3	gray		1.24e+08
+3	tblue		1.21e+08
+_________________________________________
+frame	identity	distance
+4	blue		1.24e+08
+4	green		1.17e+08
+4	red		1.18e+08
+4	yellow		1.23e+08
+4	gold		1.16e+08
+4	gray		1.21e+08
+4	tblue		1.16e+08
+_________________________________________
+frame	identity	distance
+5	blue		1.22e+08
+5	green		1.14e+08
+5	red		1.15e+08
+5	yellow		1.21e+08
+5	gold		1.14e+08
+5	gray		1.17e+08
+5	tblue		1.15e+08
+_________________________________________
+frame	identity	distance
+6	blue		1.19e+08
+6	green		1.12e+08
+6	red		1.14e+08
+6	yellow		1.20e+08
+6	gold		1.11e+08
+6	gray		1.17e+08
+6	tblue		1.12e+08
+_________________________________________
+frame	identity	distance
+7	blue		1.17e+08
+7	green		1.09e+08
+7	red		1.11e+08
+7	yellow		1.17e+08
+7	gold		1.09e+08
+7	gray		1.14e+08
+7	tblue		1.10e+08
+_________________________________________
+frame	identity	distance
+8	blue		1.14e+08
+8	green		1.06e+08
+8	red		1.10e+08
+8	yellow		1.14e+08
+8	gold		1.06e+08
+8	gray		1.12e+08
+8	tblue		1.08e+08
+_________________________________________
+frame	identity	distance
+9	blue		1.12e+08
+9	green		1.05e+08
+9	red		1.07e+08
+9	yellow		1.13e+08
+9	gold		1.05e+08
+9	gray		1.10e+08
+9	tblue		1.04e+08
+_________________________________________
+frame	identity	distance
+10	blue		1.11e+08
+10	green		1.02e+08
+10	red		1.04e+08
+10	yellow		1.08e+08
+10	gold		1.02e+08
+10	gray		1.07e+08
+10	tblue		1.02e+08
+_________________________________________
+frame	identity	distance
+11	blue		1.07e+08
+11	green		1.00e+08
+11	red		1.02e+08
+11	yellow		1.08e+08
+11	gold		1.00e+08
+11	gray		1.05e+08
+11	tblue		1.00e+08
+_________________________________________
+frame	identity	distance
+12	blue		1.05e+08
+12	green		9.77e+07
+12	red		1.00e+08
+12	yellow		1.05e+08
+12	gold		9.84e+07
+12	gray		9.23e+07
+12	tblue		9.84e+07
+_________________________________________
+frame	identity	distance
+13	blue		1.04e+08
+13	green		9.55e+07
+13	red		9.77e+07
+13	yellow		1.02e+08
+13	gold		9.55e+07
+13	gray		1.00e+08
+13	tblue		9.58e+07
+_________________________________________
+frame	identity	distance
+14	blue		1.02e+08
+14	green		9.33e+07
+14	red		9.55e+07
+14	yellow		1.02e+08
+14	gold		9.33e+07
+14	gray		9.79e+07
+14	tblue		9.33e+07
+_________________________________________
+frame	identity	distance
+15	blue		1.00e+08
+15	green		9.13e+07
+15	red		9.33e+07
+15	yellow		9.77e+07
+15	gold		9.13e+07
+15	gray		9.55e+07
+15	tblue		9.11e+07
+_________________________________________
+frame	identity	distance
+16	blue		9.66e+07
+16	green		8.90e+07
+16	red		9.13e+07
+16	yellow		9.66e+07
+16	gold		8.87e+07
+16	gray		9.33e+07
+16	tblue		8.94e+07
+_________________________________________
+frame	identity	distance
+17	blue		9.40e+07
+17	green		8.69e+07
+17	red		8.90e+07
+17	yellow		9.40e+07
+17	gold		8.63e+07
+17	gray		9.15e+07
+17	tblue		8.65e+07
+_________________________________________
+frame	identity	distance
+18	blue		9.13e+07
+18	green		8.45e+07
+18	red		8.66e+07
+18	yellow		9.20e+07
+18	gold		8.43e+07
+18	gray		8.94e+07
+18	tblue		8.47e+07
+_________________________________________
+frame	identity	distance
+19	blue		8.99e+07
+19	green		8.24e+07
+19	red		8.43e+07
+19	yellow		8.97e+07
+19	gold		8.17e+07
+19	gray		8.66e+07
+19	tblue		8.22e+07
+_________________________________________
+frame	identity	distance
+20	blue		8.75e+07
+20	green		8.00e+07
+20	red		8.24e+07
+20	yellow		8.75e+07
+20	gold		8.00e+07
+20	gray		8.43e+07
+20	tblue		8.08e+07
+_________________________________________
+frame	identity	distance
+21	blue		8.48e+07
+21	green		7.78e+07
+21	red		8.08e+07
+21	yellow		8.57e+07
+21	gold		7.74e+07
+21	gray		8.24e+07
+21	tblue		7.78e+07
+_________________________________________
+frame	identity	distance
+22	blue		8.24e+07
+22	green		7.50e+07
+22	red		7.78e+07
+22	yellow		8.24e+07
+22	gold		7.50e+07
+22	gray		8.05e+07
+22	tblue		7.55e+07
+_________________________________________
+frame	identity	distance
+23	blue		8.01e+07
+23	green		7.30e+07
+23	red		7.53e+07
+23	yellow		8.08e+07
+23	gold		7.30e+07
+23	gray		7.78e+07
+23	tblue		7.34e+07
+_________________________________________
+frame	identity	distance
+24	blue		7.88e+07
+24	green		7.08e+07
+24	red		7.34e+07
+24	yellow		7.82e+07
+24	gold		7.09e+07
+24	gray		7.62e+07
+24	tblue		7.12e+07
+_________________________________________
+frame	identity	distance
+25	blue		7.62e+07
+25	green		6.85e+07
+25	red		7.10e+07
+25	yellow		7.58e+07
+25	gold		6.85e+07
+25	gray		7.37e+07
+25	tblue		6.89e+07
+_________________________________________
+frame	identity	distance
+26	blue		7.38e+07
+26	green		6.65e+07
+26	red		6.89e+07
+26	yellow		7.40e+07
+26	gold		6.65e+07
+26	gray		7.12e+07
+26	tblue		6.67e+07
+_________________________________________
+frame	identity	distance
+27	blue		7.12e+07
+27	green		6.44e+07
+27	red		6.65e+07
+27	yellow		7.14e+07
+27	gold		6.36e+07
+27	gray		6.90e+07
+27	tblue		6.42e+07
+_________________________________________
+frame	identity	distance
+28	blue		6.94e+07
+28	green		6.18e+07
+28	red		6.45e+07
+28	yellow		6.93e+07
+28	gold		6.19e+07
+28	gray		6.70e+07
+28	tblue		6.22e+07
+_________________________________________
+frame	identity	distance
+29	blue		6.68e+07
+29	green		5.98e+07
+29	red		6.21e+07
+29	yellow		6.71e+07
+29	gold		5.94e+07
+29	gray		6.46e+07
+29	tblue		5.99e+07
+_________________________________________
+frame	identity	distance
+30	blue		6.51e+07
+30	green		5.73e+07
+30	red		6.00e+07
+30	yellow		6.51e+07
+30	gold		5.73e+07
+30	gray		6.23e+07
+30	tblue		5.75e+07
+_________________________________________
+frame	identity	distance
+31	blue		6.26e+07
+31	green		5.49e+07
+31	red		5.76e+07
+31	yellow		6.27e+07
+31	gold		5.53e+07
+31	gray		6.00e+07
+31	tblue		5.53e+07
+_________________________________________
+frame	identity	distance
+32	blue		6.03e+07
+32	green		5.31e+07
+32	red		5.54e+07
+32	yellow		6.03e+07
+32	gold		5.27e+07
+32	gray		5.78e+07
+32	tblue		5.31e+07
+_________________________________________
+frame	identity	distance
+33	blue		5.78e+07
+33	green		5.06e+07
+33	red		5.31e+07
+33	yellow		5.83e+07
+33	gold		5.05e+07
+33	gray		5.58e+07
+33	tblue		5.09e+07
+_________________________________________
+frame	identity	distance
+34	blue		5.60e+07
+34	green		4.84e+07
+34	red		5.09e+07
+34	yellow		5.60e+07
+34	gold		4.84e+07
+34	gray		5.33e+07
+34	tblue		4.87e+07
+_________________________________________
+frame	identity	distance
+35	blue		5.36e+07
+35	green		4.61e+07
+35	red		4.85e+07
+35	yellow		5.36e+07
+35	gold		4.62e+07
+35	gray		5.11e+07
+35	tblue		4.63e+07
+_________________________________________
+frame	identity	distance
+36	blue		5.14e+07
+36	green		4.38e+07
+36	red		4.64e+07
+36	yellow		5.14e+07
+36	gold		4.39e+07
+36	gray		4.88e+07
+36	tblue		4.41e+07
+_________________________________________
+frame	identity	distance
+37	blue		4.91e+07
+37	green		4.17e+07
+37	red		4.41e+07
+37	yellow		4.91e+07
+37	gold		4.17e+07
+37	gray		4.66e+07
+37	tblue		4.18e+07
+_________________________________________
+frame	identity	distance
+38	blue		4.67e+07
+38	green		3.94e+07
+38	red		4.18e+07
+38	yellow		4.69e+07
+38	gold		3.94e+07
+38	gray		4.43e+07
+38	tblue		3.96e+07
+_________________________________________
+frame	identity	distance
+39	blue		4.47e+07
+39	green		3.72e+07
+39	red		3.97e+07
+39	yellow		4.47e+07
+39	gold		3.72e+07
+39	gray		4.30e+07
+39	tblue		3.74e+07
+_________________________________________
+frame	identity	distance
+40	blue		4.24e+07
+40	green		3.49e+07
+40	red		3.74e+07
+40	yellow		4.23e+07
+40	gold		3.48e+07
+40	gray		3.99e+07
+40	tblue		3.51e+07
+_________________________________________
+frame	identity	distance
+41	blue		4.01e+07
+41	green		3.26e+07
+41	red		3.51e+07
+41	yellow		4.02e+07
+41	gold		3.27e+07
+41	gray		3.77e+07
+41	tblue		3.29e+07
+_________________________________________
+frame	identity	distance
+42	blue		3.79e+07
+42	green		3.04e+07
+42	red		3.29e+07
+42	yellow		3.79e+07
+42	gold		3.04e+07
+42	gray		3.54e+07
+42	tblue		3.07e+07
+_________________________________________
+frame	identity	distance
+43	blue		3.56e+07
+43	green		2.81e+07
+43	red		3.07e+07
+43	yellow		3.57e+07
+43	gold		2.82e+07
+43	gray		3.26e+07
+43	tblue		2.84e+07
+_________________________________________
+frame	identity	distance
+44	blue		3.34e+07
+44	green		2.59e+07
+44	red		2.84e+07
+44	yellow		3.34e+07
+44	gold		2.59e+07
+44	gray		3.07e+07
+44	tblue		2.62e+07
+_________________________________________
+frame	identity	distance
+45	blue		3.12e+07
+45	green		2.37e+07
+45	red		2.62e+07
+45	yellow		3.12e+07
+45	gold		2.37e+07
+45	gray		2.84e+07
+45	tblue		2.39e+07
+_________________________________________
+frame	identity	distance
+46	blue		2.89e+07
+46	green		2.14e+07
+46	red		2.39e+07
+46	yellow		2.89e+07
+46	gold		2.20e+07
+46	gray		2.64e+07
+46	tblue		2.17e+07
+_________________________________________
+frame	identity	distance
+47	blue		2.67e+07
+47	green		1.92e+07
+47	red		2.17e+07
+47	yellow		2.66e+07
+47	gold		2.43e+07
+47	gray		2.41e+07
+47	tblue		1.94e+07
+_________________________________________
+frame	identity	distance
+48	blue		2.44e+07
+48	green		1.69e+07
+48	red		1.94e+07
+48	yellow		2.44e+07
+48	gold		2.79e+07
+48	gray		2.19e+07
+48	tblue		1.72e+07
+_________________________________________
+frame	identity	distance
+49	blue		2.22e+07
+49	green		1.47e+07
+49	red		9.02e+06
+49	yellow		2.22e+07
+49	gold		3.41e+07
+49	gray		1.97e+07
+49	tblue		8.87e+06
+_________________________________________
+UFO: tblue

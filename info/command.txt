@@ -1,0 +1,1 @@
+python3 ce316ass.py 50 left-%3.3d.png right-%3.3d.png
